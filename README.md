@@ -1,7 +1,4 @@
-Đã suy nghĩ trong 1 giây
 
-
-````markdown
 # SSVEPNet EEG Classification Project Guide
 
 ## 1. Project Setup
