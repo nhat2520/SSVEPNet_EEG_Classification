@@ -6,8 +6,7 @@
    ```bash
    git clone https://github.com/your-username/SSVEPNet.git
    cd SSVEPNet
-````
-
+   
 2. **Install Dependencies**
 
    ```bash
