@@ -61,6 +61,8 @@
    * Build a pandas DataFrame with columns:
      `Subject, Trial, Channel, Frequency, Power, Label`
 
+![image](https://github.com/user-attachments/assets/f9901497-d29a-46f3-982e-5acfaaa5265f)
+
 ---
 
 ## 4. Feature Transformation & Normalization
@@ -114,6 +116,8 @@
 
 * Report per‐fold accuracies and overall mean.
 * Analyze confusion matrix (optional).
+
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/60e2d4c2-cfca-4234-b489-0c68b8a2f71c" />
 
 ---
 
